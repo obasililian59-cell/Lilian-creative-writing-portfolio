@@ -1,0 +1,38 @@
+body {
+    width: 100%;
+    font-family: Times New Roman;
+    font-size: 1.1rem;
+    color: #1a1a1a;
+    line-height: 1.1;
+    text-align: center;
+}
+
+section {
+    background-color: #e0e0e0;
+    padding: 0.5em;
+    margin: 0.5em;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+    text-align: left;
+}
+
+img:not(.logo){
+    margin: 0 0.3em;
+    border-radius: 35px;
+    border: 2px solid pink;
+    width: 100%;
+    height: auto;
+    box-shadow: 0 0 15px gray;
+}
+
+h1 {
+    text-align: center;
+}
+
+.message-me-btn {
+    diplay: inline-block;
+    border-radius: 10px;
+    padding: 0.75em;
+    margin: 0.5em auto;
+    background-color: rgba(127, 64, 0, 0.2);
+}
