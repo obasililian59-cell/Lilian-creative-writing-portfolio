@@ -2,7 +2,7 @@
 
 A responsive web portfolio showcasing a curated collection of fiction writing projects. This site serves as a central hub for published stories, featuring synopses, genre classifications, and direct links to external publishing platforms.
 
-📌 Project Overview
+📌 Project Overview :
 
 This Creative Portfolio is a static website built with HTML and CSS. It presents selected fiction works in a structured and visually consistent format, highlighting storytelling strengths and published pieces.
 
@@ -18,7 +18,7 @@ The project demonstrates:
 - HTML5  
 - CSS3 (Flexbox, pseudo-classes, selectors)
 
-🧱 Structure
+🧱 Structure :
 
 HTML Highlights
 - `header` and `nav` for top-level navigation
@@ -36,7 +36,7 @@ Each writing sample follows a consistent structure:
 - Synopsis  
 - External “Read here” link
 
-🎨 CSS Highlights
+🎨 CSS Highlights :
 - Flexbox layout for `.Book-container`:
   ```css
   .Book-container {
@@ -55,7 +55,7 @@ Each writing sample follows a consistent structure:
 - Visual emphasis using transforms (`transform: skew(2deg)` on sections)
 
 
-📱 Responsiveness
+📱 Responsiveness :
 The portfolio uses:
 
 - Flexible widths (`width: 100%`)
@@ -64,21 +64,25 @@ The portfolio uses:
 
 These ensure the layout adapts naturally across devices without breaking structure.
 
-🎯 Purpose
+🎯 Purpose :
 This project serves as:
 - A professional writing portfolio
 - A showcase of published fiction
 - A demonstration of frontend layout and styling skills
 - A reusable template for future creative expansions
 
-👩🏽‍💻 Author
+👩🏽‍💻 Author :
 Obasi Lilian Uchechi
 Frontend Developer (in transition) & Fiction Writer  
 Based in Imo State, Nigeria
 
-🔗 Navigation
+🔗 Navigation :
 - `index.html` – Main developer portfolio  
-- `about me.html` – Personal background  
+- `about me.html` – Personal background
+
+ 💻 Live Demo :
+https://obasililian59-cell.github.io/Lilian-creative-writing-portfolio/
+
 
 📜 License
 All writing content is the intellectual property of Obasi Lilian.  
